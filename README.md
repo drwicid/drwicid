@@ -1,16 +1,20 @@
 ## Sup
 
+Security + automation nerd.
+Go/Python • Terraform • Docker • Linux.
+Homelab + smart-home experiments.
+Making sharp tools with blunt governance.
+
 <!--
-**drwicid/drwicid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Security engineering + adversary emulation (defender-friendly).
+🧰 I build automation for cloud/containers/IaC (Terraform • Docker • Go • Python).
+🏠 Homelab + smart-home tinkerer; networking, dashboards, and observability.
+🧪 Side quests: tooling, detection validation, and breaking things safely.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+Offense-informed security engineer focused on automation + repeatability.
+Building: red-team tools, cloud glue code, and pragmatic guardrails.
+Interests: IaC, containers, homelabs, smart-home, and threat tradecraft.
+Always: test safely, document well, leave systems better than found.
 -->
